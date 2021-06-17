@@ -1,7 +1,7 @@
 ### I'm Rohan👋
 
 
-- 🔭 I’m currently doing Data Science at IBM 
+- 🔭 I’m currently doing Data Science
 - 🌱 I love data science, software engineering and learning!
 - 👯 I’m looking to collaborate on making data science organized. 
 - 💬 Ask me about Data Science, ML, Python, MLOps, Kafka, SQL, politics!
