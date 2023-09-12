@@ -7,7 +7,6 @@
 - 💬 Ask me about Data Science, ML, Python, MLOps, Kafka, SQL, politics!
 - 📫 How to reach me: singhrohan@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't blog for profit because ...
 
 
 ### GITHUB Stats
